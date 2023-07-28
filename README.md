@@ -17,7 +17,7 @@ Se creó el README
 git pull desde el code
 ```
 
-Git Log realizado
+## Git Log realizado
 
 ```
 C:\Users\DESARROLLO_18\Documents\Espe\C&E\Tercer Parcial\GIT\practica_git>git log
