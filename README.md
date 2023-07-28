@@ -10,7 +10,21 @@ git commit -a -m "mensaje"
 
 Sirve para obviar el add
 
-# Proceso realizado en cmd
+#Proceso finaliación de práctica
+
+```
+Se creó el README
+git pull desde el code
+```
+
+Git Log realizado
+
+```
+
+```
+
+# Proceso realizado en la terminal anteriormente
+```
 git add .
 git commit -m "Documento Sebastian"
 git config --global user.email chsebas98@gmail.com
@@ -203,4 +217,5 @@ PS C:\Users\labctr.BQV-LAB-SALA8\Documents\ESPE\practica-git> git commit -m "Las
 PS C:\Users\labctr.BQV-LAB-SALA8\Documents\ESPE\practica-git> git push
 PS C:\Users\labctr.BQV-LAB-SALA8\Documents\ESPE\practica-git> git checkout master
 PS C:\Users\labctr.BQV-LAB-SALA8\Documents\ESPE\practica-git> git merge rama1
+```
 PS C:\Users\labctr.BQV-LAB-SALA8\Documents\ESPE\practica-git> git push
