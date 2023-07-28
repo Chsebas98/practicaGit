@@ -10,7 +10,7 @@ git commit -a -m "mensaje"
 
 Sirve para obviar el add
 
-#Proceso finaliación de práctica
+# Proceso finaliación de práctica
 
 ```
 Se creó el README
@@ -20,10 +20,22 @@ git pull desde el code
 Git Log realizado
 
 ```
+C:\Users\DESARROLLO_18\Documents\Espe\C&E\Tercer Parcial\GIT\practica_git>git log
+commit e2e1df407ca2e7e54aff8148da638143c9a3b0cd (HEAD -> master, origin/master)
+Author: Sebastian <66321717+Chsebas98@users.noreply.github.com>
+Date:   Fri Jul 28 08:07:41 2023 -0500
 
+    Update README.md
+
+commit d8592ff69fd0ecd132e030085e5eaf60d9a0eb04
+Author: Sebastian Soberon <sebastian.soberon@securitydata.net.ec>
+Date:   Fri Jul 28 08:00:13 2023 -0500
+
+    Subida a Repositorio
 ```
 
 # Proceso realizado en la terminal anteriormente
+
 ```
 git add .
 git commit -m "Documento Sebastian"
@@ -217,5 +229,5 @@ PS C:\Users\labctr.BQV-LAB-SALA8\Documents\ESPE\practica-git> git commit -m "Las
 PS C:\Users\labctr.BQV-LAB-SALA8\Documents\ESPE\practica-git> git push
 PS C:\Users\labctr.BQV-LAB-SALA8\Documents\ESPE\practica-git> git checkout master
 PS C:\Users\labctr.BQV-LAB-SALA8\Documents\ESPE\practica-git> git merge rama1
-```
 PS C:\Users\labctr.BQV-LAB-SALA8\Documents\ESPE\practica-git> git push
+```
